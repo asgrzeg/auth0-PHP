@@ -1,6 +1,6 @@
 <?php
 
-namespace Auth0\SDK;
+namespace Auth0\RASDK;
 
 /**
  * This class provides access to Auth0 Platform.

@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Auth0\\SDK\\": "src/"
+      "Auth0\\RASDK\\": "src/"
     }
   },
   "autoload-dev": {

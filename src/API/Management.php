@@ -1,5 +1,5 @@
 <?php
-namespace Auth0\SDK\API;
+namespace Auth0\RASDK\API;
 
 use Auth0\SDK\API\Management\Blacklists;
 use Auth0\SDK\API\Management\Clients;
